@@ -3,21 +3,21 @@ Im a Computer Science student working full time as Python Backend Engineer.
 
 # 💻 Tech Stack:
 Main:
-<div display="flex" gap="3">
+<div >
     <img src="https://img.icons8.com/color/96/000000/python.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/fluent/96/000000/flask.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/django.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/celery.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/redis.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" height="60" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60" style="margin-right: 10px; background-color: #ffffff;">    
     <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/officexs/96/000000/react.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/plasticine/96/000000/console.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" height="60" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/96/000000/html-5.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/css3.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/javascript.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/plasticine/96/000000/console.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
 </div>
 
 
