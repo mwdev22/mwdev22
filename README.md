@@ -1,24 +1,40 @@
-# About Me:
+# 👨‍💻 About Me:
 Im a Computer Science student working full time as Python Backend Engineer.
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
+Main:
+<div display="flex" gap="3">
+    <img src="https://img.icons8.com/color/96/000000/python.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/fluent/96/000000/flask.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/django.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/celery.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/redis.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/officexs/96/000000/react.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/plasticine/96/000000/console.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" height="60" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/html-5.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/css3.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/javascript.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-a9cc54?style=flat-square&logo=celery&logoColor=ddf4a4)
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+Tools: 
+<div>
+    <img src="https://img.icons8.com/color/96/000000/linux.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/git.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/ios-filled/100/000000/github.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+    <img src="https://img.icons8.com/color/96/000000/pycharm.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
+</div>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mwdev22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwdev22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
