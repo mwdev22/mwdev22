@@ -17,7 +17,6 @@ Main:
     <img src="https://img.icons8.com/color/96/000000/css3.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/javascript.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
     <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/plasticine/96/000000/console.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
 </div>
 
 
