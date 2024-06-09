@@ -1,6 +1,3 @@
-# 👨‍💻 About Me:
-Im a Computer Science student working full time as Python Backend Engineer.
-
 # 💻 Tech Stack:
 Main:
 <div >
