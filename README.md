@@ -1,13 +1,7 @@
 # 💻 Tech Stack:
 Main:
-<div >
-    <img src="https://img.icons8.com/color/96/golang.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/python.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/redis.png" height="60" style="margin-right: 10px; background-color: #ffffff;">
-    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60" style="margin-right: 10px; background-color: #ffffff;">    
-    
-
+<div> 
+    <img src="https://img.icons8.com/color/96/golang.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/python.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/react-native.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/redis.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="60" style="margin-right: 10px; background-color: #ffffff;"> 
 </div>
 
 
